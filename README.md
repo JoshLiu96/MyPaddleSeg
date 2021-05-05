@@ -3,6 +3,6 @@ A test for paddleseg management.
 
 
 
-[安装教程](./Installation.md)
+[安装教程](./Install.md)
 
-[快速开始](./Quick_Start.md)
+[快速开始](./quick_start.md)
