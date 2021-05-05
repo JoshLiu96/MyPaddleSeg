@@ -15,7 +15,7 @@ PaddleSeg是基于飞桨核心框架、开发套件和工具组件的深度学�
    :maxdepth: 1
    :caption: 1. 快速了解PaddleSeg
 
-   quick_start.md
+   Quick_Start.md
    install.md
 
 
@@ -63,7 +63,7 @@ PaddleSeg是基于飞桨核心框架、开发套件和工具组件的深度学�
    :caption: 8. API使用教程
    
    API_Example.md
-   apis/index.rst
+   APIs/index.rst
    
 .. toctree::
    :maxdepth: 1
